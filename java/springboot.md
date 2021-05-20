@@ -24,3 +24,7 @@
         </exclusions>
     </dependency>
 ```
+
+### resttemplate 配置超时时间
+
+https://stackoverflow.com/questions/13837012/spring-resttemplate-timeout
