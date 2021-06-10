@@ -25,6 +25,26 @@
     </dependency>
 ```
 
-### resttemplate 配置超时时间
+### RestTemplate 
+
+#### 配置超时时间
 
 https://stackoverflow.com/questions/13837012/spring-resttemplate-timeout
+
+#### Rest template post set header 
+
+```java
+ HttpHeaders headers = new HttpHeaders();
+        headers.setContentType(MediaType.APPLICATION_JSON);
+         ResponseEntity<StartResult> result = restTemplate.postForEntity(startUrl, new HttpEntity<>(params, headers), StartResult.class);
+```
+
+### SpringMVC
+
+#### 上传文件大小限制
+
+```
+spring.servlet.multipart.maxFileSize
+spring.servlet.multipart.maxRequestSize
+```
+
