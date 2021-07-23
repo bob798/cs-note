@@ -12,6 +12,14 @@
 
 ![image-20210723163150352](../assets/imgs/image-20210723163150352.png)
 
+### Java 部署jar
+
+myjar.jar 修改你对应的jar包
+
+```shell
+ java -jar myjar.jar
+```
+
 
 
 ### Maven 构建生命周期
