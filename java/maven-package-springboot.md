@@ -6,11 +6,11 @@
 
 ### Maven 生命周期阶段
 
-<img src="/Users/happyelements/Library/Application Support/typora-user-images/image-20210723162629326.png" alt="image-20210723162629326" style="zoom:50%;" />
+<img src="../assets/imgs/image-20210723162629326.png" alt="image-20210723162629326" style="zoom:50%;" />
 
 ### package打包项目
 
-![image-20210723163150352](/Users/happyelements/Library/Application Support/typora-user-images/image-20210723163150352.png)
+![image-20210723163150352](../assets/imgs/image-20210723163150352.png)
 
 
 
